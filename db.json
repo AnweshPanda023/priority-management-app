@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": "e7e3",
+      "title": "Wake Up at 6 am Morning",
+      "completed": true
+    },
+    {
+      "id": "8fae",
+      "title": "Do Brush at 6:15",
+      "completed": true
+    },
+    {
+      "id": "7abd",
+      "title": "Go For Morning walk and exercise till 8am"
+    },
+    {
+      "id": "7347",
+      "title": "Do dailies and ready for college till 9 am"
+    },
+    {
+      "id": "63fc",
+      "title": "Complete assignments ",
+      "important": true
+    },
+    {
+      "id": "931a",
+      "title": "Do lunch at 1 pm"
+    },
+    {
+      "id": "3665",
+      "title": "Submit Math Project Report",
+      "important": true
+    }
+  ]
+}
